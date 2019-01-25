@@ -1,10 +1,10 @@
 const Dotenv = require('dotenv-webpack');
 
-module.exports = function(config) {
+exports.default = function(config) {
   return Object.assign(config, {
     webpack: function(webpackConfig) {
       return Object.assign(webpackConfig, {
-        plugins: webpackConfig.plugins.concat(['dotenv-webpack']),
+        plugins: webpackConfig.plugins.concat([new Dotenv()]),
       });
     }
   });
