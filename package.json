@@ -23,5 +23,8 @@
   "homepage": "https://github.com/elbstack/react-static-plugin-dotenv#readme",
   "dependencies": {
     "dotenv-webpack": "^1.7.0"
+  },
+  "peerDependencies": {
+    "react-static": "^6.0.0"
   }
 }
