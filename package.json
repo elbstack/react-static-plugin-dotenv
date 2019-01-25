@@ -15,7 +15,7 @@
     "dotenv",
     "plugin"
   ],
-  "author": "elbstack GmbH",
+  "author": "Sebastian Gronewold <sebastian@elbstack.com> (https://www.elbstack.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/elbstack/react-static-plugin-dotenv/issues"
