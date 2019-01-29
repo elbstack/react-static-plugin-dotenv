@@ -16,6 +16,6 @@ Add `react-static-plugin-dotenv` to your `static.config.js`:
 
 ```
 plugins: [
-  'react-static-plugin-dotenv'
+  '@elbstack/react-static-plugin-dotenv'
 ]
 ```
