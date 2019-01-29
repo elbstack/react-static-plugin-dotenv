@@ -1,6 +1,6 @@
 {
   "name": "@elbstack/react-static-plugin-dotenv",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A plugin that integrates dotenv into the react-static webpack process",
   "main": "node.api.js",
   "scripts": {
